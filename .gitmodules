@@ -1,0 +1,6 @@
+[submodule "DaisySeedGFX2"]
+	path = DaisySeedGFX2
+	url = https://github.com/DADDesign-Projects/DaisySeedGFX2
+[submodule "libDaisy"]
+	path = libDaisy
+	url = https://github.com/electro-smith/libDaisy
