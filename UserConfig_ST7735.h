@@ -22,7 +22,12 @@
 
 //-------------------------------------------------------------------------
 //#define TFT_COLOR 18            // Uncomment for 18-bit color mode
-#define TFT_COLOR 16              // Use 16-bit color mode (default)
+#define //#define INV_COLOR 				  // Screen displays with inverted colors remove/comment this if not needed"
+
+//-------------------------------------------------------------------------
+// Screen Offset
+#define XSCREEN_OFFSET 0
+#define YSCREEN_OFFSET 0
 
 //-------------------------------------------------------------------------
 // SPI bus configuration
